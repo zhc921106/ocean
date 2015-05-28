@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.106/oceans/quickDemo.ipa</string>
+					<string>https://raw.githubusercontent.com/zhc921106/ocean/master/musegame.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.106/oceans/logo.png</string>
+					<string>http://120.26.66.173/download/oceans/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.106/oceans/logo.png</string>
+					<string>http://120.26.66.173/download/oceans/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>quickDemo</string>
+				<string>musegame</string>
 				<key>title</key>
-				<string>quickDemo</string>
+				<string>musegame</string>
 			</dict>
 		</dict>
 	</array>
