@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.nabai.yipoker</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>yipokerDebug</string>
+				<string>yipokerRelease</string>
 				<key>title</key>
-				<string>yipokerDebug</string>
+				<string>yipokerRelease</string>
 			</dict>
 		</dict>
 	</array>
