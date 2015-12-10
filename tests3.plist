@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://101.200.206.194:9090/static/deploy/yipokerRelease.ipa</string>
+					<string>http://101.200.206.194/oceans/yipokerRelease.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.200.206.194:9090/static/deploy/logoYi.png</string>
+					<string>http://101.200.206.194/oceans/logoYi.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://101.200.206.194:9090/static/deploy/logoYi.png</string>
+					<string>http://101.200.206.194/oceans/logoYi.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
