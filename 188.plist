@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.188/src/yipoker.ipa</string>
+					<string>http://192.168.1.200/src/ios_symj.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.188/src/logoYi.png</string>
+					<string>http://192.168.1.200/src/logoYi.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.1.188/src/logoYi.png</string>
+					<string>http://192.168.1.200/src/logoYi.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nb.game.poker</string>
+				<string>com.nabai.game.syMaJiang</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>yipoker</string>
+				<string>symj</string>
 				<key>title</key>
-				<string>yipoker</string>
+				<string>symj</string>
 			</dict>
 		</dict>
 	</array>
