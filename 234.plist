@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.200/srcx/ios_phzhsdev.ipa</string>
+					<string>http://192.168.1.200/srcx/desjilin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.nabai.game.hspaohuzi</string>
+				<string>com.nabai.desjinlinls</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>hspaohuzi</string>
+				<string>desjilin</string>
 				<key>title</key>
-				<string>hspaohuzi</string>
+				<string>desjilin</string>
 			</dict>
 		</dict>
 	</array>
